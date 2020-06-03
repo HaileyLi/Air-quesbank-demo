@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Air-QuesBank/precache-manifest.3a74cf2a3633572a9e32d652305cc8ef.js"
+  "/Air-quesBank-demo/precache-manifest.2d32fed2b7a3ec8d4df414a998dad7c7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Air-QuesBank/index.html", {
+workbox.routing.registerNavigationRoute("/Air-quesBank-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
