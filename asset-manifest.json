@@ -1,0 +1,21 @@
+{
+  "main.css": "/Air-QuesBank/static/css/main.ae8d1993.chunk.css",
+  "main.js": "/Air-QuesBank/static/js/main.598ee502.chunk.js",
+  "main.js.map": "/Air-QuesBank/static/js/main.598ee502.chunk.js.map",
+  "runtime~main.js": "/Air-QuesBank/static/js/runtime~main.53d4e9e8.js",
+  "runtime~main.js.map": "/Air-QuesBank/static/js/runtime~main.53d4e9e8.js.map",
+  "static/css/2.8fcd46d2.chunk.css": "/Air-QuesBank/static/css/2.8fcd46d2.chunk.css",
+  "static/js/2.d8315d84.chunk.js": "/Air-QuesBank/static/js/2.d8315d84.chunk.js",
+  "static/js/2.d8315d84.chunk.js.map": "/Air-QuesBank/static/js/2.d8315d84.chunk.js.map",
+  "index.html": "/Air-QuesBank/index.html",
+  "precache-manifest.3a74cf2a3633572a9e32d652305cc8ef.js": "/Air-QuesBank/precache-manifest.3a74cf2a3633572a9e32d652305cc8ef.js",
+  "service-worker.js": "/Air-QuesBank/service-worker.js",
+  "static/css/2.8fcd46d2.chunk.css.map": "/Air-QuesBank/static/css/2.8fcd46d2.chunk.css.map",
+  "static/css/main.ae8d1993.chunk.css.map": "/Air-QuesBank/static/css/main.ae8d1993.chunk.css.map",
+  "static/media/Account.css": "/Air-QuesBank/static/media/cloud-bg.fda36538.jpg",
+  "static/media/HomePage.css": "/Air-QuesBank/static/media/home-bg.e6fd3098.jpeg",
+  "static/media/Login.css": "/Air-QuesBank/static/media/login.ba986aa7.jpeg",
+  "static/media/Management.css": "/Air-QuesBank/static/media/management.eaf802b6.jpeg",
+  "static/media/GeneratePaper.css": "/Air-QuesBank/static/media/paper.0b06a321.jpeg",
+  "static/media/Database.css": "/Air-QuesBank/static/media/quesbank.52d302cb.jpeg"
+}
