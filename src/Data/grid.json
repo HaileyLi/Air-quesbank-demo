@@ -1,0 +1,20 @@
+[
+    {
+        "testType": "Final",
+        "multipleChoice": 3,
+        "fillBlank": 2,
+        "sentence": 1,
+        "translate": 1,
+        "qa": 1,
+        "reading": 1
+    },
+    {
+        "testType": "Midterm",
+        "multipleChoice": 2,
+        "fillBlank": 3,
+        "sentence": 0,
+        "translate": 0,
+        "qa": 0,
+        "reading": 1
+    }
+]

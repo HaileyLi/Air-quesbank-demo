@@ -1,0 +1,81 @@
+.k-dialog-wrapper .k-dialog {
+    width: 80%;
+    height: 84vh;
+}
+
+form>div {
+    display: inline-block;
+    margin: 13px;
+}
+
+form>div:nth-child(2) {
+    width: 362px;
+}
+
+.question-input {
+    display: block;
+    width: 100%;
+}
+
+.answer-input {
+    display: block;
+    width: 100%;
+}
+
+.k-editor {
+    width: 50%;
+}
+
+input {
+    width: 100%;
+}
+
+form>div>label {
+    width: 100% !important;
+    display: block;
+}
+
+span.k-combobox {
+    width: 100%;
+    display: block;
+}
+
+textarea {
+    width: 80%;
+    min-height: 300px;
+    font-size: 17px;
+    margin-top: 15px;
+    resize: none;
+}
+
+.sub-nav {
+    position: fixed;
+    width: 200px;
+    height: 100vh;
+    top: 96px;
+    left: 64px;
+}
+
+@media only screen and (max-width: 600px) {
+    .sub-nav {
+        display: none;
+    }
+    .manage-table {
+        margin-left: 0;
+    }
+}
+
+.sub-nav li>div {
+    padding-left: 0px !important;
+}
+
+.sub-nav>div {
+    height: 100%;
+}
+
+.sub-nav button.k-button {
+    width: 100%;
+    box-shadow: none;
+    border-bottom: 1px solid #00000036;
+    border-radius: unset;
+}

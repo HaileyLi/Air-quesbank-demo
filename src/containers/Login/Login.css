@@ -1,0 +1,16 @@
+.card {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.row.example-wrapper {
+    height: 100vh;
+    background: url(../../photos/login.jpeg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 148px;
+}
+
+.col-xs-12 {
+    background: #fffffff2;
+}

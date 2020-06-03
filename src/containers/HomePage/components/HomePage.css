@@ -1,0 +1,64 @@
+.home-page-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    background: url("../../../photos/home-bg.jpeg") no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    transition: opacity .3s ease-out;
+    min-height: 920px;
+}
+
+.home-page {
+    color: white;
+}
+
+.home-page .todo {
+    width: 100%;
+    text-align: center;
+    margin-top: 175px;
+}
+
+.home-page h1.cur-time {
+    font-size: 130px;
+    margin-bottom: 0;
+}
+
+.home-page h1.morning {
+    font-size: 37px;
+}
+
+.home-page h2 {
+    margin-top: 70px;
+}
+
+.home-page input.todo-input {
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    padding: 5px;
+    font-size: 22px;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    color: white;
+    width: 23%;
+    margin-right: 14px;
+}
+
+.home-page input.todo-input:focus {
+    color: white
+}
+
+.home-page ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}

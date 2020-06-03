@@ -1,0 +1,23 @@
+.manage-table {
+    height: 100%;
+    margin-left: 200px;
+}
+
+.database .hero {
+    overflow: hidden;
+    padding: 29px;
+    padding-left: 65px;
+    background: url("./../../photos/quesbank.jpeg") no-repeat;
+    background-position: center right;
+    background-size: 100%;
+    color: white;
+    box-shadow: 0px -17px 7px 19px grey;
+}
+
+.database .hero h1 {
+    margin: 0;
+}
+
+.k-animation-container {
+    z-index: 10003;
+}

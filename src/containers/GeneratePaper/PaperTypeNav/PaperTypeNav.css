@@ -1,0 +1,13 @@
+.sub-nav {
+    position: fixed;
+    width: 200px;
+    height: 100vh;
+}
+
+.sub-nav li>div {
+    padding-left: 0px !important;
+}
+
+.sub-nav>div {
+    height: 100%;
+}

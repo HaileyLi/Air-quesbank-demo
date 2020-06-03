@@ -1,0 +1,45 @@
+.management-container .textbook-tag {
+    width: 222px;
+    margin: 46px;
+}
+
+.management-container .tag-management {
+    display: inline-block;
+}
+
+.management-container .ops {
+    width: 100%;
+    text-align: center;
+    padding-top: 51px;
+}
+
+.management-container .ops .k-button {
+    width: 50%;
+}
+
+.management-container .hero {
+    overflow: hidden;
+    padding: 29px;
+    padding-left: 65px;
+    background: url("./../../photos/management.jpeg") no-repeat;
+    background-position: top left;
+    background-size: 100%;
+    color: white;
+    box-shadow: 0px -17px 7px 19px grey;
+}
+
+.management-container .hero h1 {
+    margin: 0;
+}
+
+.stats h2 {
+    text-align: center;
+}
+
+.stats {
+    display: inline-block;
+}
+
+.test-type-grid h2 {
+    text-align: center;
+}

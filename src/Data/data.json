@@ -1,0 +1,340 @@
+{
+    "textbook": [
+        {
+            "textbookID": 1,
+            "textbookName": "New Concept English I"
+        },
+        {
+            "textbookID": 2,
+            "textbookName": "New Concept English II"
+        },
+        {
+            "textbookID": 3,
+            "textbookName": "New Concept English III"
+        }
+    ],
+    "mode": [
+        {
+            "modeID": 1,
+            "modeName": "Easy"
+        },
+        {
+            "modeID": 2,
+            "modeName": "Medium"
+        },
+        {
+            "modeID": 3,
+            "modeName": "Hard"
+        }
+    ],
+    "questionType": [
+        {
+            "questionTypeID": 1,
+            "questionTypeName": "multiple choice"
+        },
+        {
+            "questionTypeID": 2,
+            "questionTypeName": "fill in blank"
+        },
+        {
+            "questionTypeID": 3,
+            "questionTypeName": "sentence"
+        },
+        {
+            "questionTypeID": 4,
+            "questionTypeName": "translate"
+        },
+        {
+            "questionTypeID": 5,
+            "questionTypeName": "qa"
+        },
+        {
+            "questionTypeID": 6,
+            "questionTypeName": "reading"
+        }
+    ],
+    "testType": [
+        {
+            "testTypeID": 1,
+            "testTypeName": "Final"
+        },
+        {
+            "testTypeID": 2,
+            "testTypeName": "Midterm"
+        }
+    ],
+    "generatePaper": {
+        "testType": "",
+        "mode": "",
+        "textbook": "",
+        "content": ""
+    },
+    "quesbank": [
+        {
+            "questionID": "1",
+            "questionType": "fill in blank",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "The boys like to listen to music when they do ______ (they) homework.",
+            "answer": "their",
+            "lesson": 1,
+            "labels": [
+                "grade 1",
+                "label 2"
+            ]
+        },
+        {
+            "questionID": "eteee",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "-- __________?   -- My bike is broken.A. What is it  B. What is wrong with you   C. Where is it",
+            "answer": "B",
+            "lesson": 10,
+            "labels": [
+                "grade 3",
+                "label 2"
+            ]
+        },
+        {
+            "questionID": "ettteee",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "Look! Lucy is ______ a new red dress. She is beautiful today.A. with           B. put on            C. in       ",
+            "answer": "C",
+            "lesson": 1,
+            "labels": [
+                "grade 3"
+            ]
+        },
+        {
+            "questionID": "444rrrr",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "There are so many people in the shop. You must ____ your things.A. look at         B. look after         C. put away",
+            "answer": "B",
+            "lesson": 6,
+            "labels": [
+                "grade 3"
+            ]
+        },
+        {
+            "questionID": "444r222",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "I have two good pen friends. One is an American,________is in England.A. the other       B. another one         C. another     ",
+            "answer": "A",
+            "lesson": 6,
+            "labels": [
+                "grade 3"
+            ]
+        },
+        {
+            "questionID": "444rd444",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": ". I can see ______ in Lucy’s room. A. other thing       B. any other thing    C. some other things ",
+            "answer": "C",
+            "lesson": 3,
+            "labels": [
+                "grade 7"
+            ]
+        },
+        {
+            "questionID": "144ggghg",
+            "questionType": "fill in blank",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "My mother’s work is _____ (make) our city safe.",
+            "answer": "making",
+            "lesson": 1,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144eewe",
+            "questionType": "sentence",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "We are making a model plane. （变成一般疑问句）",
+            "answer": "Are you making a model plane？",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144eehre",
+            "questionType": "qa",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "          Ⅰ                                 Ⅱ \n(  ) 1. What’s your telephone number, please?  A. He is a worker.\n(  ) 2. It’s very cold today, isn’t it?          B. It doesn’t matter.\n(  ) 3. Can you mend it?                  C. Yes, wonderful, thanks.\n(  ) 4. How is your mother?                D. Sometimes.\n(  ) 5. Hi, this is my friend, Lily.   E.My telephone number is 6262383.\n(  ) 6. I’m sorry to trouble you     F. Yes, it is. You need to wear warm clothes.\n(  ) 7. How often do you go to the park?        G. Certainly.\n(  ) 8. Excuse me. Where is the post office?    H. Nice to meet you.\n(  ) 9. What does your father do?           I. She is OK.\n(  ) 10. Did you have a good trip?   J. It’s about twenty meters from here.\n",
+            "answer": "1-5 EFGIH    6-10 BDJAC",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144eewg",
+            "questionType": "translate",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "两杯咖啡",
+            "answer": "two cups of coffee",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "14weg4ee",
+            "questionType": "translate",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "look after",
+            "answer": "照顾",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144eweweghe",
+            "questionType": "reading",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "    It’s Sunday morning. The students of Class 3 are giving their classroom a good cleaning.Miss Huang, their teacher, is working with them. The children are busy. Some are carrying water; some are cleaning the windows; others are sweeping the floor. Zhang Hua is putting up a map on the wall. It is a map of China. Wang Fei and Wei Qing are mending some broken chairs. The children are listening to the radio while they are working. The classroom looks nice and bright after the cleaning. The children are very happy. They go home for lunch at noon. \n (  ) 1. The children are playing in their classroom on Sunday morning.\n(  ) 2. Miss Huang, their mother, is working with them.\n(  ) 3. There is a map of China on the wall.\n(  ) 4. Two of them are repairing the broken chairs.\n(  ) 5. They are singing while they are working.\n",
+            "answer": "1-5 FFTTF",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144eweewwhhe",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "I can see ______ in Lucy’s room. A. other thing       B. any other thing     C. some other things ",
+            "answer": "C",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144ew555ehe",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "These are ______. You can buy a pair for your mother.A. woman sock     B. women sock     C. women socks     ",
+            "answer": "C",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144ewjjehe",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "-- Thank you very much!    -- ________.A. You’re right      B. All right      C. You are welcome",
+            "answer": "C",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144ewretehe",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "-- She must be in red.   --No, _____. She wears a green coat.A. she is        B. she must not     C. I don’t think so.",
+            "answer": "C",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144ewertehye",
+            "questionType": "multiple choice",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": " The coat _____ the wall isn’t Kate’s. It’s ______.A. on; his    B. to; mine    C. in; he ",
+            "answer": "A",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144ew764ehe",
+            "questionType": "fill in blank",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "One day, Mr Green asked Mrs Green ______ (go) shopping for him.",
+            "answer": "to go",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144sdgew7ketke64ehe",
+            "questionType": "fill in blank",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "We would brush our _______ (tooth) twice a day.",
+            "answer": "teeth",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144sdgeetjw764ehe",
+            "questionType": "fill in blank",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "This book is the lightest and ______ (thin) of all the books.",
+            "answer": "thinnest",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144sdgetjew764ehe",
+            "questionType": "fill in blank",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "She is ______ (good) than Alice at swimming.",
+            "answer": "better",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        },
+        {
+            "questionID": "144sdgew76etj4ehe",
+            "questionType": "fill in blank",
+            "textbook": "New Concept English I",
+            "mode": "Easy",
+            "question": "Janet      (get) up at 7:30 a.m. every day, so she is always late  for school.",
+            "answer": "gets",
+            "lesson": 17,
+            "labels": [
+                "grade 1"
+            ]
+        }
+    ]
+}

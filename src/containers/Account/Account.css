@@ -1,0 +1,41 @@
+.aireng {
+    height: 100px;
+    width: 100px;
+    background: url("./../../photos/air-eng.jpg") no-repeat;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    background-size: cover;
+    transition: opacity .3s ease-out;
+    margin-left: 46%;
+}
+
+.bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    background: url("./../../photos/cloud-bg.jpg") no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    transition: opacity .3s ease-out;
+    min-height: 920px;
+}
+
+.account-container {
+    width: 100%;
+    text-align: center;
+    margin-top: 227px;
+}
+
+.account-container a {
+    color: black;
+}
+
+.account-container a:hover {
+    color: red;
+}
